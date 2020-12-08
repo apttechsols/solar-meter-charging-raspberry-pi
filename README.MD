@@ -1,0 +1,1 @@
+It is written in python and works on Raspberry Pi. It is a solar battery charging system.
