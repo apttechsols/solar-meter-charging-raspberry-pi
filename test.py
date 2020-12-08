@@ -1,0 +1,1 @@
+print('1245789'.replace('.', '', 1).isdigit())
